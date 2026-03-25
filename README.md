@@ -40,7 +40,9 @@ It allows independent providers to offer computing power while clients submit jo
 https://stellar.expert/explorer/testnet/account/GCYRS7LLA7PSMM4GFFR7KTE3KGPCWZR6II6SUUJZHQWF6PUT272DEZ7B
 **Contract Address:** GCYRS7LLA7PSMM4GFFR7KTE3KGPCWZR6II6SUUJZHQWF6PUT272DEZ7B
 
+
 ## IMAGE
+<img width="1737" height="936" alt="Screenshot 2026-03-25 at 10 05 41 AM" src="https://github.com/user-attachments/assets/34fa471c-0fa6-4277-a1f9-9d715b1816a6" />
 <img width="1920" height="934" alt="Screenshot 2026-03-25 at 8 22 33 AM" src="https://github.com/user-attachments/assets/0bd16a01-e26b-4fdd-81a7-46074c6ed6ec" />
 <img width="425" height="596" alt="Screenshot 2026-03-25 at 8 07 00 AM" src="https://github.com/user-attachments/assets/80972846-812f-41f2-8eb7-1f2ef32f3ed2" />
 <img width="354" height="597" alt="Screenshot 2026-03-25 at 8 22 24 AM" src="https://github.com/user-attachments/assets/2c06da78-6fa8-4226-bb62-f21045ccfa7c" />
