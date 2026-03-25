@@ -37,8 +37,8 @@ It allows independent providers to offer computing power while clients submit jo
 ---
 
 ## 🔗 Deployed Smart Contract  
-https://stellar.expert/explorer/testnet/account/GCYRS7LLA7PSMM4GFFR7KTE3KGPCWZR6II6SUUJZHQWF6PUT272DEZ7B
-**Contract Address:** GCYRS7LLA7PSMM4GFFR7KTE3KGPCWZR6II6SUUJZHQWF6PUT272DEZ7B
+https://stellar.expert/explorer/testnet/contract/CAC3QHVF6424HFK2CS2PS7GB3WWYFIGPWUKX52BZVW3IQ37QGKE5BAWP
+**Contract Address:** CAC3QHVF6424HFK2CS2PS7GB3WWYFIGPWUKX52BZVW3IQ37QGKE5BAWP
 
 
 ## IMAGE
